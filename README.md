@@ -1,2 +1,2 @@
 # To-Do-List-App
-A minimalistic to-do list app for PC.
+The classic productivity tool: an effective to-do list app for PC.
